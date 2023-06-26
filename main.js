@@ -1,1 +1,1 @@
-const isOddNumber = (number) => number % 2 === 1;
+const isOddNumber = (number) => number % 2 === 2;
